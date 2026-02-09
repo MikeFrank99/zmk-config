@@ -4,16 +4,9 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    # Module for custom OLED display widgets
-    - name: mctechnology17
-      url-base: https://github.com/mctechnology17
   projects:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
-    # Custom OLED widgets module
-    - name: zmk-nice-oled
-      remote: mctechnology17
-      revision: main
   self:
     path: config
