@@ -47,7 +47,7 @@
             compatible = "zmk,behavior-tap-dance";
             label = "TD0";
             #binding-cells = <0>;
-            bindings = <&ht PERIOD COMMA>, <&ht SEMI LS(SEMI)>;
+            bindings = <&ht DOT COMMA>, <&ht SEMI LS(SEMI)>;
 
             tapping-term-ms = <300>;
         };
