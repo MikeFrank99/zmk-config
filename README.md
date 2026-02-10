@@ -20,7 +20,7 @@ Personal ZMK configuration for the Corne (CRKBD). This documentation is updated 
       Left Hand                                     Right Hand
   _______________________________________________    _______________________________________________
   |   ---   |    N1   |    N2   |    N3   |    N4   |    N5   |    |    N6   |    N7   |    N8   |    N9   |    N0   |   ---   |
-  |   ---   |  SLASH  |  ASTRK  |  MINUS  |   PLUS  |   DOT   |    |  ENTER  |   LEFT  | UP_ARRO |   DOWN  |  RIGHT  | KP_EQUA |
+  |   ---   |  SLASH  |  ASTRK  |  MINUS  |   PLUS  |   DOT   |    | KP_EQUA |   LEFT  | UP_ARRO |   DOWN  |  RIGHT  |   ---   |
   |    F1   |    F2   |    F3   |    F4   |    F5   |    F6   |    |    F7   |    F8   |    F9   |   F10   |   F11   |   F12   |
                        |   ---   |   ---   |   ---   |    |   ---   |   ---   |   ---   |
                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -30,8 +30,8 @@ Personal ZMK configuration for the Corne (CRKBD). This documentation is updated 
 ```text
       Left Hand                                     Right Hand
   _______________________________________________    _______________________________________________
-  |   ---   |   ---   |   ---   |   ---   |   ---   |   ---   |    |   ---   |   ---   |   ---   |   ---   |   ---   |   ---   |
-  |  RSHIFT |   ---   |   ---   |   ---   |   ---   |   ---   |    |   ---   | C_VOLUM |  C_MUTE | C_VOLUM |   ---   |   ---   |
+  |   ---   | BT_SEL  | BT_SEL  | BT_SEL  | BT_SEL  | BT_SEL  |    |   ---   |   ---   |   ---   |   ---   |   ---   |   ---   |
+  |   ---   |   ---   |   ---   |   ---   |   ---   |   ---   |    |   ---   | C_VOLUM |  C_MUTE | C_VOLUM |   ---   |   ---   |
   |   ---   |   ---   |   ---   |  BT_CLR |   ---   |   ---   |    |  BT_NXT |   ---   |   ---   |   ---   |   ---   |   ---   |
                        |   ---   |   ---   |   ---   |    |   ---   |   ---   |   ---   |
                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
